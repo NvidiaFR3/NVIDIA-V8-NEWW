@@ -8,8 +8,9 @@ Easy and simple when used
 1. Ke Panel Pterodactlyl
 2. Ke server panel anda
 3. Upload Script
-4. Lalu Startup nya ubah npm start
-5. lalu start sudah
+4. Gangi startup menjadi
+  ```bash cd npm start```
+6. lalu start sudah
 
 --
 ## 📂 Cara Add Database
