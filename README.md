@@ -1,4 +1,4 @@
-![Logo Nvidia Botz](https://img1.pixhost.to/images/6119/605407504_fr3hosting.jpg)
+![Logo Nvidia Botz](https://img1.pixhost.to/images/6119/605407711_fr3hosting.jpg)
 
 # NVIDIA-V8-NEWW
 
