@@ -1,6 +1,6 @@
-# NVIDIA-V8-NEWW
+![Logo Nvidia Botz](https://img1.pixhost.to/images/6119/605407504_fr3hosting.jpg)
 
-![Logo Nvidia Botz](https://img1.pixhost.to/images/6119/605407239_fr3hosting.jpg)
+# NVIDIA-V8-NEWW
 
 Easy and simple when used 
 
