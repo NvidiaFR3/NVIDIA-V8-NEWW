@@ -42,7 +42,7 @@ npm start
 
 5. Creat panel and admin panel
 
-## Baileys And Code
+## 📖 Baileys And Code
 
 1. Bailys Yang Di Gunakan
 
@@ -86,3 +86,16 @@ async function autoClean(FR3) {
     }
   });
 ```
+
+## ℹ️ Informasi Nvidia Botz V8
+
+- Version 8.0.0 Official
+- Versi Baileys 1.0.1
+- support button
+- tidak support WhatsApp Buisnies
+- node js wajib 20+
+- developer nvidia botz yaitu FR3
+
+## 👥 contact Developer (FR3)
+
+📱 WhatsApp: [Kontak Dev](https://wa.me/62882008771871)
