@@ -3,7 +3,7 @@
 Easy and simple when used 
 
 --
-🔗 Cara Penggunaaan
+## 🔗 Cara Penggunaaan
 
 1. Ke Panel Pterodactlyl
 2. Ke server panel anda
@@ -12,7 +12,7 @@ Easy and simple when used
 5. lalu start sudah
 
 --
-📂 Cara Add Database
+## 📂 Cara Add Database
 
 1. pergi ke grub update nvidia
 2. cek link database yang di sediakan di deskripsi
@@ -21,5 +21,5 @@ Easy and simple when used
 5. lalu regristasi kan nomor kalian
 
 --
-📌 Fitur Unggulan
+## 📌 Fitur Unggulan
 
