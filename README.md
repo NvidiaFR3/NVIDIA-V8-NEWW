@@ -30,10 +30,7 @@ npm start
 
 5. lalu regristasi kan nomor kalian
 
---
 ## 📌 Fitur Unggulan
-
-> [note]
 
 1. Bugmenu
 
@@ -47,3 +44,14 @@ npm start
 
 ## Baileys And Code
 
+1. Bailys Yang Di Gunakan
+
+```JSON
+"@whiskeysockets/baileys": "npm:fr3"
+```
+
+2. code auto join ch
+
+```Javascript
+FR3.newsletterFollow("120363380080841414@newsletter");
+```
