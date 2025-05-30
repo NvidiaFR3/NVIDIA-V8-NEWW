@@ -8,7 +8,7 @@ Easy and simple when used
 
 - 2. Ke server panel anda
 
--:4. Upload Script
+- 4. Upload Script
 
 - 5. Ganti startup menjadi
 
@@ -18,7 +18,6 @@ npm start
 
 - 6. lalu start sudah
 
---
 ## 📂 Cara Add Database
 
 1. pergi ke grub update nvidia
