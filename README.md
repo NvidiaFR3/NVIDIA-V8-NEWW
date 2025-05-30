@@ -1,8 +1,7 @@
 # NVIDIA-V8-NEWW
 
-Easy and simple when used 
+- Easy and simple when used 
 
---
 ## 🔗 Cara Penggunaaan
 
 1. Ke Panel Pterodactlyl
