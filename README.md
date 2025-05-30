@@ -9,7 +9,11 @@ Easy and simple when used
 2. Ke server panel anda
 3. Upload Script
 4. Gangi startup menjadi
-  ```bash cd npm start```
+
+```bash
+npm start
+```
+
 6. lalu start sudah
 
 --
