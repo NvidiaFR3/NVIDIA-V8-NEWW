@@ -8,7 +8,7 @@ Easy and simple when used
 
 - 2. Ke server panel anda
 
-- 4. Upload Script
+-  4. Upload Script
 
 - 5. Ganti startup menjadi
 
