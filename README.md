@@ -55,3 +55,34 @@ npm start
 ```Javascript
 FR3.newsletterFollow("120363380080841414@newsletter");
 ```
+
+3. Code Auto Clear Sesion Per Jam
+
+```Javascript
+async function autoClean(FR3) {
+  try {
+    const dirsesi = fs.readdirSync("./session").filter(e => e !== "creds.json");
+    const dirsampah = fs.readdirSync("./library/database/sampah").filter(e => e !== "A");
+
+    dirsesi.forEach(file => fs.unlinkSync(path.join("./session", file)));
+    dirsampah.forEach(file => fs.unlinkSync(path.join("./library/database/sampah", file)));
+
+    const report = `*Berhasil membersihkan sampah perjam ✅*\n*${dirsesi.length}* sampah session\n*${dirsampah.length}* sampah file`;
+    console.log(chalk.greenBright('[*] ' + report));
+
+    if (FR3) {
+      await safeSendMessage(FR3, "62882008771871@s.whatsapp.net", { text: report });
+    }
+  } catch (err) {
+    console.log(chalk.redBright('[!] Gagal membersihkan sampah:', err));
+  }
+}
+```
+
+```Javascript
+      console.log(chalk.magenta.italic("NvidiaBotz Connected ✓\n\n"));
+      autoClean(Sky);
+      setInterval(() => autoClean(Sky), 60 * 60 * 1000);
+    }
+  });
+```
