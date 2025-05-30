@@ -1,5 +1,7 @@
 # NVIDIA-V8-NEWW
 
+![Logo Nvidia Botz](https://img1.pixhost.to/images/6119/605407239_fr3hosting.jpg)
+
 Easy and simple when used 
 
 ## 🔗 Cara Penggunaaan
