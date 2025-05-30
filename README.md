@@ -33,3 +33,17 @@ npm start
 --
 ## 📌 Fitur Unggulan
 
+> [note]
+
+1. Bugmenu
+
+2. auto buy integrasion Order Kouta
+
+3. Search menu
+
+4. download menu
+
+5. Creat panel and admin panel
+
+## Baileys And Code
+
