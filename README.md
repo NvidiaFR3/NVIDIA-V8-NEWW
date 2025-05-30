@@ -11,7 +11,7 @@ Easy and simple when used
 
 4. Upload Script
 
-5. Gangi startup menjadi
+5. Ganti startup menjadi
 
 ```bash
 npm start
