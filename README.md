@@ -1,22 +1,22 @@
 # NVIDIA-V8-NEWW
 
-- Easy and simple when used 
+Easy and simple when used 
 
 ## 🔗 Cara Penggunaaan
 
-1. Ke Panel Pterodactlyl
+- 1. Ke Panel Pterodactlyl
 
-2. Ke server panel anda
+- 2. Ke server panel anda
 
-4. Upload Script
+-:4. Upload Script
 
-5. Ganti startup menjadi
+- 5. Ganti startup menjadi
 
 ```bash
 npm start
 ```
 
-5. lalu start sudah
+- 6. lalu start sudah
 
 --
 ## 📂 Cara Add Database
