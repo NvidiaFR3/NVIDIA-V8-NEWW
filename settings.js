@@ -81,7 +81,7 @@ qris: "./media/qris.jpg"
 global.egg = "15" // Egg ID
 global.nestid = "5" // nest ID
 global.loc = "1" // Location ID
-global.domain = "https://reseller-xnnx.fr3serv.my.id" //domain
+global.domain = "" //domain
 global.apikey = "ptla_156ldJqgIbzCKIgw9UO4vs7l05ey5hXj33HeguINaK2" //ptla
 global.capikey = "ptlc_cjU3wqTEsqdSBaAUODBeWLO7EEtqTs8nbuErHcshu5c" //ptlc
 
@@ -90,7 +90,7 @@ global.capikey = "ptlc_cjU3wqTEsqdSBaAUODBeWLO7EEtqTs8nbuErHcshu5c" //ptlc
 global.eggV2 = "15" // Egg ID
 global.nestidV2 = "5" // nest ID
 global.locV2 = "1" // Location ID
-global.domainV2 = "https://apist.fr3serv.my.id" //domain
+global.domainV2 = "" //domain
 global.apikeyV2 = "ptla_zdvMVUArJyvy1mqgLzA39e3u9gNBt98yCPPT5hbCm7z" //ptla
 global.capikeyV2 = "ptlc_o2fkErDKsAbtTUXaAsZhxnwC9NGFReU2S36arIVaLTE" //ptlc
 
@@ -98,7 +98,7 @@ global.capikeyV2 = "ptlc_o2fkErDKsAbtTUXaAsZhxnwC9NGFReU2S36arIVaLTE" //ptlc
 global.eggV3 = "15" // Egg ID
 global.nestidV3 = "5" // nest ID
 global.locV3 = "1" // Location ID
-global.domainV3 = "https://dimz.tokopanelmurah.biz.id" //domain
+global.domainV3 = "" //domain
 global.apikeyV3 = "ptla_F6bYrzRK72sWFS4XeGcccs9h8XfDYixAkokBsinxMyg" //ptla
 global.capikeyV3 = "ptlc_1S31BBKj73wDN6ZSwvooSW0gU0Sr2DeI1X1lxO6aTP2" //ptlc
 
